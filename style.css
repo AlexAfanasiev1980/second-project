@@ -1,3 +1,18 @@
-.listen-element {
+.body {
+  margin: 0;
+  padding: 0;
+}
 
+.listen-element {
+ height: 50px;
+ list-style-type: none;
+}
+
+.listen-element:hover {
+  background-color: violet;
+}
+
+.list-zone {
+  padding-left: 0;
+  margin: 0;
 }
