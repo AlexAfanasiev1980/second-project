@@ -1,16 +1,16 @@
 @keyframes rotation {
   0% {
-    transform: rotate3d(1, 2, 1, 30deg) rotate(0deg);
+    transform: rotate3d(1, 0, 1, 10deg) rotate(0deg);
   }
 
   50% {
     
-      transform: rotate3d(1, 5, 1, 180deg) rotate(180deg);
+      transform: rotate3d(1, 0, 1, 10deg) rotate(180deg);
     
   }
 
   100% {
-    transform: rotate3d(1, 2, 1, 30deg) rotate(360deg);
+    transform: rotate3d(1, 0, 1, 10deg) rotate(360deg);
   }
 }
 
